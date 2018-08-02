@@ -64,7 +64,7 @@ solidYellowLeft.jpg:
 whiteCarLaneSwitch.jpg:
 ![alt text][image9]
 
-This pipeline was then built into the function called 'process_image' and was tested on the video files 'solidWhiteRight.mp4', 'solidYellowLeft.mp4', and 'challenge.mp4'. The resulting annotated video files were saved to the 'test_videos_output' file and can also be viewed within the notebook P1.ipynb.
+This pipeline was then built into the function called 'process_image' and was tested on the video files 'solidWhiteRight.mp4', 'solidYellowLeft.mp4', and 'challenge.mp4'. The resulting annotated video files were saved to the 'test_videos_output' file and can also be viewed within the notebook [P1.ipynb](https://github.com/anammy/CarND-LaneLines-P1/blob/master/P1.ipynb).
 
 
 ### 2. Potential shortcomings with the current pipeline
